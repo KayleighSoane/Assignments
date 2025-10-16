@@ -58,16 +58,14 @@ double averagePositive() {
 	// Fix 4: create an if else statement so if count = 0, doesn't calculate average.
 }
 
-int globvar = 10860938;
-static int statvar = 10860938;
+int globvar = 10860938;				//Global variable
+static int statvar = 10860938;		//Static global variable
 
 void global() {
-	
 	cout << "Global Variable = " << globvar << endl;
 }
 
 void statglobal() {
-
 	cout << "Static Global Variable = " << statvar << endl;
 }
 
@@ -209,15 +207,12 @@ int main()
 	// Global variable is accessible in whole file and other files, located outside of functions
 	// Static global variable is only accessible in one function.
 	// The only difference is their accessiblity to external files - how do I demonstrate this?
+	// Asked for help - i was overcomplicating it
 	// Initializing one inside and one outside a function just makes one local and one global
 	// Assignment only asks for one file to be submitted
 	
 		global();
-		globvar++;
-			cout << "Global value after adding 1: " << globvar << endl;
 		statglobal();
-			statvar++;
-			cout << "Static value after adding 1: " << statvar << endl;
 
 		cout << endl;
 
