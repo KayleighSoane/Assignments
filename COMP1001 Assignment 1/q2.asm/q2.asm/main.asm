@@ -5,7 +5,7 @@
 ExitProcess PROTO, dwExitCode: DWORD  ; Exit process prototype
 
 
-;Tip. You have been taught how to use integer division only. So, implement the division using ‘div’ instruction; assume 
+;Tip. You have been taught how to use integer division only. So, implement the division using â€˜divâ€™ instruction; assume 
 ;that the reminder is always zero (we are interested in the quotient only).  
 ;unsigned int i, B[10], A[10]={3,2,3,1,7,5,0,8,9,2}, C[10]={1,3,2,5,4,6,0,4,5,8}; 
  
