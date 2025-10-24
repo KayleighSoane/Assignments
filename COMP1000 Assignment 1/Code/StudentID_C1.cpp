@@ -36,6 +36,9 @@ double averagePositive() {
 		do {
 			cout << "Enter a positive number (input -1 to end): ";
 			cin >> num;
+			if (num < -1) {
+				cout << "Invalid - enter a positive number" << endl;
+			}
 		} while (num < -1);	// Bug 1: Should ignore negatives except -1
 		// Fix 1: Changed to < so if number is less than -1, will keep asking for input
 		if (num == -1) {
