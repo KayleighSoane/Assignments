@@ -10,8 +10,8 @@ void coordinates() {
 	double b = 8;			//ID numbers are 3 and 8
 	double x = 6;
 	double y = 7;
-	cout << " Coordinate 1: (" << a << ", " << b << ")" << endl;
-	cout << " Coordinate 2: (" << x << ", " << y << ")" << endl;
+	cout << "Coordinate 1: (" << a << ", " << b << ")" << endl;
+	cout << "Coordinate 2: (" << x << ", " << y << ")" << endl;
 	//double coord = sqrt(((a*a)-(x*x)) + ((b*b)-(y*y))); - this code didnt work - procuded nan (not a number)
 	double coord = sqrt(pow(x - a, 2) + pow(y - b, 2));  //corrected code - Tried ^2 but it also didn't work, github suggested pow
 	cout << "The euclidean distance between the two coordinates is " << coord << endl;
@@ -34,7 +34,7 @@ double averagePositive() {
 	cout << "Calculating the average of inputted values" << endl;
 	do {
 		do {
-			cout << "Enter a positive number (-1 to end): ";
+			cout << "Enter a positive number (input -1 to end): ";
 			cin >> num;
 		} while (num < -1);	// Bug 1: Should ignore negatives except -1
 		// Fix 1: Changed to < so if number is less than -1, will keep asking for input
@@ -76,7 +76,7 @@ int main()
 	cout << "My Student ID number is " << id << endl;
 	cout << "*********************************" << endl;
 	cout << endl;
-	cout << endl;
+
 
 	void task1();
 	cout << "Task 1" << endl;
@@ -85,7 +85,7 @@ int main()
 		int b = 8;
 		cout << "The last two numbers of my student ID are " << a << " and " << b << endl;
 		cout << "The sum of these two numbers is " << a + b << endl;
-		cout << endl;
+	cout << endl;
 
 
 	void task2();
@@ -94,7 +94,7 @@ int main()
 		int c = 1;		//create new integer for first number of ID
 		cout << "The first number of my student ID is " << c << endl;
 		cout << "The product of " << c << " and " << b << " is " << c * b << endl;	//Using b, integer from previous task
-		cout << endl;
+	cout << endl;
 
 
 	void task3();
@@ -106,8 +106,8 @@ int main()
 			cout << num << " ";
 			num++;
 		} while (num <= id % 20);  //stops looping once reached mod20
-		int endValue = id % 20;
 		cout << endl;
+	cout << endl;
 
 
 	void task4();
@@ -119,7 +119,7 @@ int main()
 			else {
 			cout << "My ID is an odd number" << endl;		//if value isn't 0, has remainder of 1 which would be .5, so odd.
 			}
-		cout << endl;
+	cout << endl;
 
 
 	void task5();
@@ -146,7 +146,7 @@ int main()
 				cout << "Error: Invalid day" << endl;
 				break;
 		}
-		cout << endl;
+	cout << endl;
 
 
 	void task6();
@@ -156,7 +156,7 @@ int main()
 		int array[] = {34, 35, 36, 37, (id % 50)};
 		// tested the array - cout << array[4] << endl; - to see if value 38 printed, which it did
 		cout << "The third element of the array is " << array[2] << endl;
-		cout << endl;
+	cout << endl;
 
 
 	void task7();
@@ -165,7 +165,7 @@ int main()
 	// attempted to make Point data type but couldn't get it to work - was overcomplicating it
 	// referred to week 5 lecture slides for help
 		coordinates(); // function located above main
-		cout << endl;
+	cout << endl;
 
 
 	void task8();
@@ -175,7 +175,7 @@ int main()
 		//create a function that repeats a message mod5 + 1 times
 		//function states number of repititions
 		task8count(rep); // function located above main
-		cout << endl;
+	cout << endl;
 
 
 	void task9();
@@ -198,7 +198,7 @@ int main()
 		// If no positive values are added before -1, function ends and returns 0.
 		// The value of avg is type double and produces decimals.
 		
-		cout << endl;
+	cout << endl;
 
 
 	void task10();
@@ -212,7 +212,7 @@ int main()
 		global();
 		statglobal();
 
-		cout << endl;
+	cout << endl;
 
 
 	return 0;
