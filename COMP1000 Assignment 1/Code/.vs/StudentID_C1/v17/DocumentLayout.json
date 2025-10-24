@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kayle\\OneDrive - University of Plymouth\\Work\\Assignments\\COMP1000 Assignment 1\\Code\\",
+  "WorkspaceRootPath": "C:\\Users\\ksoane\\Documents\\comp1004\\COMP1000 Assignment 1\\Code\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{56B2AF7A-CE56-4FAB-8A66-34AA1D9476DF}|COMP1000 Assignment 1.vcxproj|C:\\Users\\kayle\\OneDrive - University of Plymouth\\Work\\Assignments\\COMP1000 Assignment 1\\Code\\StudentID_C1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{56B2AF7A-CE56-4FAB-8A66-34AA1D9476DF}|COMP1000 Assignment 1.vcxproj|C:\\Users\\ksoane\\Documents\\comp1004\\COMP1000 Assignment 1\\Code\\StudentID_C1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{56B2AF7A-CE56-4FAB-8A66-34AA1D9476DF}|COMP1000 Assignment 1.vcxproj|solutionrelative:StudentID_C1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "StudentID_C1.cpp",
-              "DocumentMoniker": "C:\\Users\\kayle\\OneDrive - University of Plymouth\\Work\\Assignments\\COMP1000 Assignment 1\\Code\\StudentID_C1.cpp",
+              "DocumentMoniker": "C:\\Users\\ksoane\\Documents\\comp1004\\COMP1000 Assignment 1\\Code\\StudentID_C1.cpp",
               "RelativeDocumentMoniker": "StudentID_C1.cpp",
-              "ToolTip": "C:\\Users\\kayle\\OneDrive - University of Plymouth\\Work\\Assignments\\COMP1000 Assignment 1\\Code\\StudentID_C1.cpp",
+              "ToolTip": "C:\\Users\\ksoane\\Documents\\comp1004\\COMP1000 Assignment 1\\Code\\StudentID_C1.cpp",
               "RelativeToolTip": "StudentID_C1.cpp",
-              "ViewState": "AgIAAGQAAAAAAAAAAAAAAJIAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAEUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-16T12:57:10.774Z",
               "EditorCaption": ""

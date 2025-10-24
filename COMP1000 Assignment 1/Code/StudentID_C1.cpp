@@ -182,10 +182,10 @@ int main()
 	void task9();
 	cout << "Task 9" << endl;
 		averagePositive(); // function located above main
-		// goal = Reads integers until -1 is entered.
-		//		  Ignores all negatives(except - 1 as the stop signal).
-		//	  	  Computes the average(double) of all valid positive numbers.
-		//		  Returns 0.0 if no valid positives were entered.
+		// goals: - Reads integers until -1 is entered.
+		//		  - Ignores all negatives(except - 1 as the stop signal).
+		//	  	  - Computes the average(double) of all valid positive numbers.
+		//		  - Returns 0.0 if no valid positives were entered.
 
 		// I stepped through the code to see what was happening
 		// int sum is adding inputted values together
@@ -205,11 +205,10 @@ int main()
 	void task10();
 	cout << "Task 10" << endl;
 	// Global variable is accessible in whole file and other files, located outside of functions
-	// Static global variable is only accessible in one function.
+	// Static global variable is only accessible in one file.
 	// The only difference is their accessiblity to external files - how do I demonstrate this?
 	// Asked for help - i was overcomplicating it
-	// Initializing one inside and one outside a function just makes one local and one global
-	// Assignment only asks for one file to be submitted
+	// Created one global anmd one static global variable, both with my student ID value
 	
 		global();
 		statglobal();

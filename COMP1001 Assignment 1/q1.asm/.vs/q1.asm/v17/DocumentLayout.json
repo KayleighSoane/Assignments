@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kayle\\OneDrive - University of Plymouth\\Work\\Assignments\\COMP1001 Assignment 1\\q1.asm\\",
+  "WorkspaceRootPath": "C:\\Users\\ksoane\\Documents\\comp1004\\COMP1001 Assignment 1\\q1.asm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ABD3C1E1-8BE5-4450-925D-4F4E3CA8D839}|q1.asm\\q1.asm.vcxproj|C:\\Users\\kayle\\OneDrive - University of Plymouth\\Work\\Assignments\\COMP1001 Assignment 1\\q1.asm\\q1.asm\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{ABD3C1E1-8BE5-4450-925D-4F4E3CA8D839}|q1.asm\\q1.asm.vcxproj|solutionrelative:q1.asm\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{ABD3C1E1-8BE5-4450-925D-4F4E3CA8D839}|q1.asm\\q1.asm.vcxproj|C:\\Users\\ksoane\\Documents\\comp1004\\COMP1001 Assignment 1\\q1.asm\\q1.asm\\q1.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{ABD3C1E1-8BE5-4450-925D-4F4E3CA8D839}|q1.asm\\q1.asm.vcxproj|solutionrelative:q1.asm\\q1.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,11 +27,11 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "main.asm",
-              "DocumentMoniker": "C:\\Users\\kayle\\OneDrive - University of Plymouth\\Work\\Assignments\\COMP1001 Assignment 1\\q1.asm\\q1.asm\\main.asm",
-              "RelativeDocumentMoniker": "q1.asm\\main.asm",
-              "ToolTip": "C:\\Users\\kayle\\OneDrive - University of Plymouth\\Work\\Assignments\\COMP1001 Assignment 1\\q1.asm\\q1.asm\\main.asm",
-              "RelativeToolTip": "q1.asm\\main.asm",
+              "Title": "q1.asm",
+              "DocumentMoniker": "C:\\Users\\ksoane\\Documents\\comp1004\\COMP1001 Assignment 1\\q1.asm\\q1.asm\\q1.asm",
+              "RelativeDocumentMoniker": "q1.asm\\q1.asm",
+              "ToolTip": "C:\\Users\\ksoane\\Documents\\comp1004\\COMP1001 Assignment 1\\q1.asm\\q1.asm\\q1.asm",
+              "RelativeToolTip": "q1.asm\\q1.asm",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-10-20T18:48:14.994Z",
