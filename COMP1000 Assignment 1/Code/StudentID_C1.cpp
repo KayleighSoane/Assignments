@@ -12,8 +12,8 @@ void coordinates() {
 	double y = 7;
 	cout << " Coordinate 1: (" << a << ", " << b << ")" << endl;
 	cout << " Coordinate 2: (" << x << ", " << y << ")" << endl;
-	//double coord = sqrt(((a*a)-(x*x)) + ((b*b)-(y*y))); - this code didnt work - procuded nan (not a number). Didn't know you could use ^2
-	double coord = sqrt(pow(x - a, 2) + pow(y - b, 2));  //corrected code - Tried ^2 but it didn't work, github suggested pow
+	//double coord = sqrt(((a*a)-(x*x)) + ((b*b)-(y*y))); - this code didnt work - procuded nan (not a number)
+	double coord = sqrt(pow(x - a, 2) + pow(y - b, 2));  //corrected code - Tried ^2 but it also didn't work, github suggested pow
 	cout << "The euclidean distance between the two coordinates is " << coord << endl;
 }
 
@@ -172,7 +172,6 @@ int main()
 	cout << "Task 8" << endl;
 		// 'Call function (Student ID % 5)+1 times.'
 		int rep = (id % 5) + 1;		// answer is 4
-		//had to ask copilot to explain what it was asking for
 		//create a function that repeats a message mod5 + 1 times
 		//function states number of repititions
 		task8count(rep); // function located above main
