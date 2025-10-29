@@ -1,10 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\COMP1000 Assignment 1",
-    "\\COMP1000 Assignment 1\\Code",
+    "\\COMP1001 Assignment 1",
+    "\\COMP1001 Assignment 1\\q1.asm",
+    "\\COMP1001 Assignment 1\\q1.asm\\q1.asm",
     "\\COMP1001 Assignment 1\\q2.asm"
   ],
-  "SelectedNode": "\\COMP1000 Assignment 1\\Code\\StudentID_C1.sln",
+  "SelectedNode": "\\COMP1001 Assignment 1\\q1.asm\\q1.asm\\q1.asm",
   "PreviewInSolutionExplorer": false
 }
